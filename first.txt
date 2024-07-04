@@ -1,3 +1,8 @@
 This is first file
 This is a new change
-This change is for F1 - u11
+<<<<<<< HEAD
+This change is for F1 - u1
+=======
+This change is for F1 - u1
+This change is for F1 - u2
+>>>>>>> c59500c23904d0b67b5fae18b6f127b659d6b933
